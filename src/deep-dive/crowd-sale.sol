@@ -6,7 +6,10 @@ contract Token {
 
 contract Crowdsale {
     address public beneficiary;
-    uint public fundingGoal; uint public amountRaised; uint public deadline; uint public price;
+    uint public fundingGoal;
+    uint public amountRaised;
+    uint public deadline;
+    uint public price;
     Token public tokenReward;
     mapping(address => uint256) public balanceOf;
     bool fundingGoalReached = false;
