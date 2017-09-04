@@ -1,0 +1,29 @@
+{
+    "name": "hello-world-voting",
+    "version": "1.0.0",
+    "description": "hello-world-voting example",
+    "main": "node-rpc.js",
+    "dependencies": {
+        "ethereumjs-testrpc": "~4.1.1",
+        "solc": "~0.4.16",
+        "web3": "~0.20.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "jasmine node-rpc-test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/selvendiranj/smar-contracts.git"
+    },
+    "keywords": [
+        "smart",
+        "contracts"
+    ],
+    "author": "Selvendiran Jayaraman",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/selvendiranj/smar-contracts/issues"
+    },
+    "homepage": "https://github.com/selvendiranj/smar-contracts#readme"
+}

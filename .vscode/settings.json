@@ -5,7 +5,8 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/.vs": true
+        "**/.vs": true,
+        "**/node_modules": true
     },
     "solidity.compileUsingRemoteVersion": "latest",
     "solidity.enabledAsYouTypeCompilationErrorCheck": true,
