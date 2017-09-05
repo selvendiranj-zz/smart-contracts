@@ -5,7 +5,7 @@ var contractAddress;
 var contractInstance;
 
 web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545"));
-contractAddress = '0x8ea087ea74f0957456b3ad8fa924d42059b2356c';
+contractAddress = '0xb85e48407f5eecf87ed2bda425ca58fc3bda16be';
 candidates = { "Rama": "candidate-1", "Nick": "candidate-2", "Jose": "candidate-3" }
 
 var readContract = function() {

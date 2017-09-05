@@ -1,6 +1,7 @@
 *.swp
 *.swo
 npm-debug.log
+**/package-lock.json
 **/node_modules
 **/bin
 **/build
