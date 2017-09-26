@@ -6,7 +6,8 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/.vs": true,
-        "**/node_modules": true
+        "**/node_modules": true,
+        "**/bin": true
     },
     "solidity.compileUsingRemoteVersion": "latest",
     "solidity.enabledAsYouTypeCompilationErrorCheck": true,

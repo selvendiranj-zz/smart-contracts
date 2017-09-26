@@ -6,7 +6,10 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
+        "Metamask",
         "bytecode",
+        "dapp",
+        "mgmt",
         "solc"
     ],
     // flagWords - list of words to be always considered incorrect

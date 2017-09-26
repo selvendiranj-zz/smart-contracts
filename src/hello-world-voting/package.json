@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/selvendiranj/smar-contracts.git"
+        "url": "git+https://github.com/selvendiranj/smart-contracts.git"
     },
     "keywords": [
         "smart",
@@ -24,7 +24,7 @@
     "author": "Selvendiran Jayaraman",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/selvendiranj/smar-contracts/issues"
+        "url": "https://github.com/selvendiranj/smart-contracts/issues"
     },
-    "homepage": "https://github.com/selvendiranj/smar-contracts#readme"
+    "homepage": "https://github.com/selvendiranj/smart-contracts#readme"
 }
